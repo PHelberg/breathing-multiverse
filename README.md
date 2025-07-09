@@ -53,8 +53,9 @@ Even $1/month helps keep this project alive, public, and growing. Thank you 💫
 
 ## 📚 Related Work
 
-- Zenodo preprint: [10.5281/zenodo.15708416](https://doi.org/10.5281/zenodo.15708416)
 @TheBreatheTheory on Instagram for ongoing updates
+📄 **Zenodo Preprint:**  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15708415.svg)](https://doi.org/10.5281/zenodo.15708415)
 
 ---
 
