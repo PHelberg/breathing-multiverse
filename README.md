@@ -1,6 +1,6 @@
 # Breathing Multiverse Theory 🌌
 
-**Author:** Patricia Helberg  
+**Author:** Patricia Sanchez-Helberg  
 **GitHub:** [@PHelberg](https://github.com/PHelberg)  
 **📄 Full Paper on Zenodo:** [10.5281/zenodo.15708415](https://doi.org/10.5281/zenodo.15708415)
 
@@ -27,10 +27,6 @@ A visual and mathematical demonstration of the **Breathing Multiverse Theory**, 
 
 ## 🧪 Run This Notebook
 
-👉 Click to open in [Google Colab](https://colab.research.google.com/github/YourUsername/YourRepoName/blob/main/Breathing_Multiverse_Model.ipynb)  
-(Replace with your real URL)
-
-or
 
 🔧 Run locally using Jupyter Notebook and Anaconda
 
@@ -44,6 +40,17 @@ You can reach me via GitHub or submit an issue.
 
 ---
 
+## ☕ Support This Research
+
+If you believe in open science, curiosity-driven research, and making big questions accessible — consider supporting this work:
+
+👉 [Become a Patron on Patreon] @PSHelberg
+
+Even $1/month helps keep this project alive, public, and growing. Thank you 💫
+
+
+---
+
 ## 📚 Related Work
 
 - Zenodo preprint: [10.5281/zenodo.15708416](https://doi.org/10.5281/zenodo.15708416)
@@ -52,3 +59,4 @@ You can reach me via GitHub or submit an issue.
 ---
 
 *This is an independent research project developed out of curiosity, persistence, and an obsession with understanding the cosmos. Please feel free to test, critique, and contribute.* 💫
+
