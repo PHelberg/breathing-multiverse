@@ -48,6 +48,8 @@ If you believe in open science, curiosity-driven research, and making big questi
 
 Even $1/month helps keep this project alive, public, and growing. Thank you 💫
 
+Google Colab:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PHelberg/breathing-multiverse/blob/main/Breathing_Multiverse_Model.ipynb)
 
 ---
 
