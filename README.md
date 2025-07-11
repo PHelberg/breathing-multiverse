@@ -52,6 +52,9 @@ Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PHelberg/breathing-multiverse/blob/main/Breathing_Multiverse_Model.ipynb)
 
 ---
+📊 **Try this notebook in Google Colab**  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PHelberg/breathing-multiverse/blob/main/the_breathing_multiverse_FIXED_FOR_GITHUB.ipynb)
+
 
 ## 📚 Related Work
 
